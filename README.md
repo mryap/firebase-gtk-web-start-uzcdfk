@@ -1,6 +1,6 @@
 # Deployed
 
-https://firebase-gtk-web-start-uzcdfk.stackblitz.io/
+https://fir-web-codelab-88160.web.app/
 
 
 # firebase-gtk-web-start-uzcdfk
